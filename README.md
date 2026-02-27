@@ -1,5 +1,7 @@
 📅 Year Progress Menu Bar App For MacOS
 
+![alt text](https://github.com/alexia-consta/Year-Progress-Menu-Bar/blob/main/Screenshot%202026-02-28%20at%2000.23.28.png)
+
 A lightweight macOS utility that lives in your menu bar and gives you a visual representation of how much of the year has passed. Perfect for staying motivated or realizing just how fast time is flying.
 🚀 Features
 
