@@ -1,0 +1,552 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D7025ECE2F159E8100F1FE83 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7025EB72F159E8000F1FE83 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D7025EBE2F159E8000F1FE83;
+			remoteInfo = "Year Progress Menu Bar";
+		};
+		D7025ED82F159E8100F1FE83 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D7025EB72F159E8000F1FE83 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D7025EBE2F159E8000F1FE83;
+			remoteInfo = "Year Progress Menu Bar";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D7025EBF2F159E8000F1FE83 /* Year Progress Menu Bar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Year Progress Menu Bar.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7025ECD2F159E8100F1FE83 /* Year Progress Menu BarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Year Progress Menu BarTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7025ED72F159E8100F1FE83 /* Year Progress Menu BarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Year Progress Menu BarUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D7025EC12F159E8000F1FE83 /* Year Progress Menu Bar */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Year Progress Menu Bar";
+			sourceTree = "<group>";
+		};
+		D7025ED02F159E8100F1FE83 /* Year Progress Menu BarTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Year Progress Menu BarTests";
+			sourceTree = "<group>";
+		};
+		D7025EDA2F159E8100F1FE83 /* Year Progress Menu BarUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Year Progress Menu BarUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D7025EBC2F159E8000F1FE83 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7025ECA2F159E8100F1FE83 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7025ED42F159E8100F1FE83 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D7025EB62F159E8000F1FE83 = {
+			isa = PBXGroup;
+			children = (
+				D7025EC12F159E8000F1FE83 /* Year Progress Menu Bar */,
+				D7025ED02F159E8100F1FE83 /* Year Progress Menu BarTests */,
+				D7025EDA2F159E8100F1FE83 /* Year Progress Menu BarUITests */,
+				D7025EC02F159E8000F1FE83 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D7025EC02F159E8000F1FE83 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D7025EBF2F159E8000F1FE83 /* Year Progress Menu Bar.app */,
+				D7025ECD2F159E8100F1FE83 /* Year Progress Menu BarTests.xctest */,
+				D7025ED72F159E8100F1FE83 /* Year Progress Menu BarUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D7025EBE2F159E8000F1FE83 /* Year Progress Menu Bar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D7025EE12F159E8100F1FE83 /* Build configuration list for PBXNativeTarget "Year Progress Menu Bar" */;
+			buildPhases = (
+				D7025EBB2F159E8000F1FE83 /* Sources */,
+				D7025EBC2F159E8000F1FE83 /* Frameworks */,
+				D7025EBD2F159E8000F1FE83 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D7025EC12F159E8000F1FE83 /* Year Progress Menu Bar */,
+			);
+			name = "Year Progress Menu Bar";
+			packageProductDependencies = (
+			);
+			productName = "Year Progress Menu Bar";
+			productReference = D7025EBF2F159E8000F1FE83 /* Year Progress Menu Bar.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D7025ECC2F159E8100F1FE83 /* Year Progress Menu BarTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D7025EE42F159E8100F1FE83 /* Build configuration list for PBXNativeTarget "Year Progress Menu BarTests" */;
+			buildPhases = (
+				D7025EC92F159E8100F1FE83 /* Sources */,
+				D7025ECA2F159E8100F1FE83 /* Frameworks */,
+				D7025ECB2F159E8100F1FE83 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D7025ECF2F159E8100F1FE83 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D7025ED02F159E8100F1FE83 /* Year Progress Menu BarTests */,
+			);
+			name = "Year Progress Menu BarTests";
+			packageProductDependencies = (
+			);
+			productName = "Year Progress Menu BarTests";
+			productReference = D7025ECD2F159E8100F1FE83 /* Year Progress Menu BarTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D7025ED62F159E8100F1FE83 /* Year Progress Menu BarUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D7025EE72F159E8100F1FE83 /* Build configuration list for PBXNativeTarget "Year Progress Menu BarUITests" */;
+			buildPhases = (
+				D7025ED32F159E8100F1FE83 /* Sources */,
+				D7025ED42F159E8100F1FE83 /* Frameworks */,
+				D7025ED52F159E8100F1FE83 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D7025ED92F159E8100F1FE83 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D7025EDA2F159E8100F1FE83 /* Year Progress Menu BarUITests */,
+			);
+			name = "Year Progress Menu BarUITests";
+			packageProductDependencies = (
+			);
+			productName = "Year Progress Menu BarUITests";
+			productReference = D7025ED72F159E8100F1FE83 /* Year Progress Menu BarUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D7025EB72F159E8000F1FE83 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					D7025EBE2F159E8000F1FE83 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					D7025ECC2F159E8100F1FE83 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = D7025EBE2F159E8000F1FE83;
+					};
+					D7025ED62F159E8100F1FE83 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = D7025EBE2F159E8000F1FE83;
+					};
+				};
+			};
+			buildConfigurationList = D7025EBA2F159E8000F1FE83 /* Build configuration list for PBXProject "Year Progress Menu Bar" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D7025EB62F159E8000F1FE83;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D7025EC02F159E8000F1FE83 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D7025EBE2F159E8000F1FE83 /* Year Progress Menu Bar */,
+				D7025ECC2F159E8100F1FE83 /* Year Progress Menu BarTests */,
+				D7025ED62F159E8100F1FE83 /* Year Progress Menu BarUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D7025EBD2F159E8000F1FE83 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7025ECB2F159E8100F1FE83 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7025ED52F159E8100F1FE83 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D7025EBB2F159E8000F1FE83 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7025EC92F159E8100F1FE83 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D7025ED32F159E8100F1FE83 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D7025ECF2F159E8100F1FE83 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D7025EBE2F159E8000F1FE83 /* Year Progress Menu Bar */;
+			targetProxy = D7025ECE2F159E8100F1FE83 /* PBXContainerItemProxy */;
+		};
+		D7025ED92F159E8100F1FE83 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D7025EBE2F159E8000F1FE83 /* Year Progress Menu Bar */;
+			targetProxy = D7025ED82F159E8100F1FE83 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D7025EDF2F159E8100F1FE83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D7025EE02F159E8100F1FE83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		D7025EE22F159E8100F1FE83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Year Progress Menu Bar/Year_Progress_Menu_Bar.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 54MH4PTB23;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSUIElement = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihnea.Year-Progress-Menu-Bar";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		D7025EE32F159E8100F1FE83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Year Progress Menu Bar/Year_Progress_Menu_Bar.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 54MH4PTB23;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSUIElement = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihnea.Year-Progress-Menu-Bar";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		D7025EE52F159E8100F1FE83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihnea.Year-Progress-Menu-BarTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Year Progress Menu Bar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Year Progress Menu Bar";
+			};
+			name = Debug;
+		};
+		D7025EE62F159E8100F1FE83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihnea.Year-Progress-Menu-BarTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Year Progress Menu Bar.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Year Progress Menu Bar";
+			};
+			name = Release;
+		};
+		D7025EE82F159E8100F1FE83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihnea.Year-Progress-Menu-BarUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Year Progress Menu Bar";
+			};
+			name = Debug;
+		};
+		D7025EE92F159E8100F1FE83 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "mihnea.Year-Progress-Menu-BarUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "Year Progress Menu Bar";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D7025EBA2F159E8000F1FE83 /* Build configuration list for PBXProject "Year Progress Menu Bar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7025EDF2F159E8100F1FE83 /* Debug */,
+				D7025EE02F159E8100F1FE83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D7025EE12F159E8100F1FE83 /* Build configuration list for PBXNativeTarget "Year Progress Menu Bar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7025EE22F159E8100F1FE83 /* Debug */,
+				D7025EE32F159E8100F1FE83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D7025EE42F159E8100F1FE83 /* Build configuration list for PBXNativeTarget "Year Progress Menu BarTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7025EE52F159E8100F1FE83 /* Debug */,
+				D7025EE62F159E8100F1FE83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D7025EE72F159E8100F1FE83 /* Build configuration list for PBXNativeTarget "Year Progress Menu BarUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D7025EE82F159E8100F1FE83 /* Debug */,
+				D7025EE92F159E8100F1FE83 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D7025EB72F159E8000F1FE83 /* Project object */;
+}
